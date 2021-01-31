@@ -1,0 +1,16 @@
+body{
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: darkslategray;
+    color: aliceblue;
+}
+
+footer{
+    text-align: center;
+    font-size: 90%;
+}
+
+a{
+    text-decoration-line: none;
+    color: deepskyblue;
+}
