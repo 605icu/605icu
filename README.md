@@ -1,2 +1,2 @@
-# 605icu.github.io
+# 605icu
  The Website of 605ICU
