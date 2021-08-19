@@ -5,6 +5,10 @@ body{
     color: aliceblue;
 }
 
+nav{
+    font-size: 95%;
+}
+
 footer{
     text-align: center;
     font-size: 90%;
